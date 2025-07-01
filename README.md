@@ -8,7 +8,6 @@ Use subqueries in `SELECT`, `WHERE`, and `FROM` clauses to build advanced SQL qu
 
 ## 📁 Files Included:
 - `task6_queries.sql` – Contains all SQL queries using subqueries and nested logic
-- (Optional) `output_screenshot.png` – Screenshots showing query outputs
 
 ## 🔑 Key Concepts Used:
 - Scalar subqueries
@@ -29,5 +28,3 @@ This task improved my understanding of advanced SQL logic and helped me differen
 - Queries tested and executed in MySQL Workbench.
 - Faced some challenges with correlated subqueries but resolved them using aliases properly.
 
-## 🔗 Submission Link:
-[Paste your GitHub repo link here before submitting in the form]
